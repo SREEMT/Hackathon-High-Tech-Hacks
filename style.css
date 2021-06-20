@@ -1,0 +1,8 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(x.jpg);
+    background-size:cover;
+    background-position:cover;
+    font-family:sans-serif;
+}
